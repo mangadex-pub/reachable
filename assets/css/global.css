@@ -1,0 +1,10 @@
+:root {
+  font-family: Poppins, sans-serif;
+
+  color: #ffffff;
+  background-color: #191a1c;
+
+  --md-accent: #2c2c2c;
+  --md-accent-lighten: #3d3d3d;
+  --md-accent-lighten-2: #aeaeae;
+}

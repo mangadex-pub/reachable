@@ -1,7 +1,7 @@
 <template>
-  <div class="m-2 flex flex-col gap-2">
+  <div class="flex flex-grow flex-col gap-2">
     <TheHeader />
-    <div>
+    <div class="m-2 flex-grow">
       <slot />
     </div>
     <TheFooter />

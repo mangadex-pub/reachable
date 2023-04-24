@@ -10,6 +10,13 @@ export default {
     "./nuxt.config.{js,ts}",
   ],
   darkMode: "class", // or 'media' or 'class'
-  plugins: [],
   mode: "jit",
+  plugins: [],
+  theme: {
+    extend: {
+      fontFamily: {
+        header: ["Spartan", "sans-serif"],
+      },
+    }
+  }
 } as Config;

@@ -28,6 +28,7 @@ export default defineNuxtConfig({
     "~/assets/css/tailwind.css",
     "~/assets/css/fonts/spartan.css",
     "~/assets/css/fonts/poppins.css",
+    "~/assets/css/global.css",
   ],
 
   modules: [
