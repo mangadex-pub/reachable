@@ -9,11 +9,6 @@
 </template>
 
 <script lang="ts" setup>
-import { useHead } from "#imports";
-
-useHead({
-  title: "MangaDex Diagnostics",
-});
 </script>
 
 <style lang="postcss">
